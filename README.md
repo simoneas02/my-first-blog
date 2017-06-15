@@ -31,29 +31,29 @@ Go to: [localhost:8080](http://127.0.0.1:8000/)
 
 ## Estrutura de Pastas
 
-.  
-├──   mysite/  
-│    ├──   blog/  
-│    │    ├──  __init__.py  
-│    │    ├──   admin.py  
-│    │    ├──  migrations/  
-│    │    │    ├──  0001_initial.py  
-│    │    │    └──  __init__.py  
-│    │    ├──  models.py  
-│    │    ├──  tests.py  
-│    │    └──  views.py  
-│    ├──  manage.py  
-│    └──  mysite/  
-│       ├──  __init__.py  
-│       ├──  settings.py  
-│       ├──  urls.py  
-│       └──  wsgi.py  
-├──  requirements.txt  
-└──  uteis/  
-     ├──  docs  
-     │    └── help.md  
-     └──  img  
-          └── magic-pony-django-.png  
+	.
+	├── mysite/
+	│	├── blog/
+	│	│	├── __init__.py
+	│	│	├── admin.py
+	│	│	├── migrations/
+	│	│	│	├── 0001_initial.py
+	│	│	│	└── __init__.py
+	│	│	├── models.py
+	│	│	├── tests.py
+	│	│	└── views.py
+	│	├── manage.py
+	│	└── mysite/
+	│		├── __init__.py
+	│		├── settings.py
+	│		├── urls.py
+	│		└── wsgi.py
+	├── requirements.txt
+	└── uteis/
+		├── docs
+		└── help.md
+		└── img
+			└── magic-pony-django-.png
 
 
 ## Tarefas Automatizadas
@@ -70,4 +70,4 @@ Veja [Releases](https://github.comsimoneas02/my-first-blog.git/releases) para de
 
 ## Licença
 
-[MIT License](https://github.comsimoneas02/my-first-blog.git/blob/master/license.md) © [Mães no ENEM](https://simoneas02.github.io/)
+[MIT License](https://github.comsimoneas02/my-first-blog.git/blob/master/license.md) © [Simone Amorim](https://simoneas02.github.io/)
