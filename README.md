@@ -15,7 +15,7 @@ $ git clone https://github.com/simoneas02/my-first-blog.git
 $ cd my-first-blog.git/mysite/
 $ C:\Python34\python -m venv myvenv
 $ myvenv\Scripts\activate
-$ pip install django==1.8.5 whitenoise==2.0
+$ pip install -r requirements.txt
 ```
 
 **2 -** Inicie a aplicação localmente:
@@ -31,29 +31,29 @@ Go to: [localhost:8080](http://127.0.0.1:8000/)
 
 ## Estrutura de Pastas
 
-.
-├──	mysite/
-│   ├── blog/
-│   │   ├── __init__.py
-│   │   ├── admin.py
-│   │   ├── migrations/
-│   │   │   ├── 0001_initial.py
-│   │   │   └── __init__.py
-│   │   ├── models.py
-│   │   ├── tests.py
-│   │   └── views.py
-│   ├── manage.py
-│   └── mysite/
-│       ├── __init__.py
-│       ├── settings.py
-│       ├── urls.py
-│       └── wsgi.py
-├── requirements.txt
-└── uteis/
-    ├── docs
-    │   └── help.md
-    └── img
-        └── magic-pony-django-.png
+.  
+├──   mysite/  
+│    ├──   blog/  
+│    │    ├──  __init__.py  
+│    │    ├──   admin.py  
+│    │    ├──  migrations/  
+│    │    │    ├──  0001_initial.py  
+│    │    │    └──  __init__.py  
+│    │    ├──  models.py  
+│    │    ├──  tests.py  
+│    │    └──  views.py  
+│    ├──  manage.py  
+│    └──  mysite/  
+│       ├──  __init__.py  
+│       ├──  settings.py  
+│       ├──  urls.py  
+│       └──  wsgi.py  
+├──  requirements.txt  
+└──  uteis/  
+     ├──  docs  
+     │    └── help.md  
+     └──  img  
+          └── magic-pony-django-.png  
 
 
 ## Tarefas Automatizadas
@@ -61,7 +61,7 @@ Go to: [localhost:8080](http://127.0.0.1:8000/)
 
 ## Sobre Contrubuir
 
-Encontre em nossas [issues](https://github.comsimoneas02/my-first-blog.git/issues/) os próximos passos do projeto ;)<br/>
+Encontre em nossas [issues](https://github.comsimoneas02/my-first-blog.git/issues/) os próximos passos do projeto ;)  
 Quer contribuir? [siga essas recomendações](https://https://github.comsimoneas02/my-first-blog.git/issues/blob/master/CONTRIBUTING.md).
 
 ## Histórico
