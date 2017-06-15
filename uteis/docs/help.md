@@ -16,8 +16,12 @@
 	- [Iniciando com vs code - Instalação e primeiros passos - Artigo](https://medium.com/buzatto/iniciando-com-vs-code-instala%C3%A7%C3%A3o-e-primeiros-passos-39f5377112b9)
  
  - Python:
-	 - [Python Downloads](https://www.python.org/downloads/)
+	- [Python Downloads](https://www.python.org/downloads/)
 	- [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
+
+- PythonAnywhere:
+	- [Crie sua conta no PythonAnywhere](https://www.pythonanywhere.com/registration/register/beginner/)
+	- [Deploy na PythonAnywhere](https://tutorial.djangogirls.org/pt/deploy/)
 
 
 > Após baixar e [instalar](https://tutorial.djangogirls.org/pt/python_installation/) o Python, entre no [terminal](https://tutorial.djangogirls.org/pt/intro_to_command_line/)  siga os passos abaixo:
@@ -28,7 +32,7 @@
 - Execute `cd nomedomeuprojeto` para entrar na pasta do seu projeto
 - Execute `C:\Python34\python -m venv myvenv` pra criar uma máquina vitual(virtualenv)
 - Execute `myvenv\Scripts\activate` para ativar a máquina virtual
-	- Caso apesente o erro informando que o comando `não pode ser carregado porque a execução de scripts foi desabilitada neste sistema` [siga esses passos](https://paulosantanna.com/2012/10/14/habilitando-a-execucao-de-scripts-powershell/) para solucionar
+	- Caso apresente o erro informando que o comando `não pode ser carregado porque a execução de scripts foi desabilitada neste sistema` [siga esses passos](https://paulosantanna.com/2012/10/14/habilitando-a-execucao-de-scripts-powershell/) para solucionar
 - Execute `pip install django==1.8.5 whitenoise==2.0` para instala o Django e o Whitenois
 - Execute `pip freeze > requirements.txt` para congelar as versões
 
@@ -41,4 +45,4 @@
 - [Hora de aventura com CSS :two_hearts:](https://codepen.io/afonsopacifer/post/hora-de-aventura-com-css-1-formas-basicas)
 - [Defina metas pessoais :pushpin:](https://una.im/2016-review/)
  
-> Por enquanto é isso meninas, espero ver vocês codando muitoooooooooooo <3
+> Por enquanto é isso meninas, espero ver vocês codando muitoooooooooooo :woman_technologist_tone1:
