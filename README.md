@@ -33,27 +33,27 @@ Go to: [localhost:8080](http://127.0.0.1:8000/)
 
 	.
 	├── mysite/
-	│	├── blog/
-	│	│	├── __init__.py
-	│	│	├── admin.py
-	│	│	├── migrations/
-	│	│	│	├── 0001_initial.py
-	│	│	│	└── __init__.py
-	│	│	├── models.py
-	│	│	├── tests.py
-	│	│	└── views.py
-	│	├── manage.py
-	│	└── mysite/
-	│		├── __init__.py
-	│		├── settings.py
-	│		├── urls.py
-	│		└── wsgi.py
+	│   ├── blog/
+	│   │	├── __init__.py
+	│   │	├── admin.py
+	│   │	├── migrations/
+	│   │	│   ├── 0001_initial.py
+	│   │	│   └── __init__.py
+	│   │	├── models.py
+	│   │	├── tests.py
+	│   │	└── views.py
+	│   ├── manage.py
+	│   └── mysite/
+	│      ├── __init__.py
+	│      ├── settings.py
+	│      ├── urls.py
+	│      └── wsgi.py
 	├── requirements.txt
 	└── uteis/
-		├── docs
-		└── help.md
-		└── img
-			└── magic-pony-django-.png
+	      ├── docs
+	      │   └── help.md
+	      └── img
+	          └── magic-pony-django-.png
 
 
 ## Tarefas Automatizadas
